@@ -1,0 +1,8 @@
+TELEGRAM_TOKEN = "your telegram bot token"
+ENDPOINT="your DB endpoint"
+PORT="DB port"
+USER="DB user"
+REGION="DB region for aws rds"
+DBNAME="your DB name"
+AWS_ACCESS_ID="your iam aws access id"
+AWS_SECRET_KEY="your iam aws acces secret key"
